@@ -1,18 +1,18 @@
 ## 👋 Hi, I'm Shahmeer Ahmed
 
 🎓 A passionate Computer Science student at FAST NUCES Islamabad (6th Semester)  
-🛡️ Focused on Cybersecurity, AI and Software Development  
+🛡️ Focused on Cybersecurity, AI, and Software Development  
 🎮 Game Developer | 🧠 AI Enthusiast | 🖥️ Backend Explorer  
 
 ---
 
 ## 🚀 Current Pursuits
 
-- 🧠 Enhancing my knowledge in AI and intelligent agents  
-- 🔐 Deep diving into cybersecurity via the Google Cybersecurity Certificate  
-- 🌐 Experimenting with scalable backend systems using FastAPI, RabbitMQ & Docker  
-- 🎯 Learning to build secure and efficient distributed systems  
-- 🛠️ Developing C++/Python projects focused on performance and system-level behavior  
+- 🧠 Building intelligent agents using PyTorch and real-time environments like TORCS  
+- 🔐 Exploring system security through the Google Cybersecurity Certificate  
+- ⚙️ Engineering distributed and parallel algorithms for performance-critical systems  
+- 🌐 Designing backend microservices with FastAPI, RabbitMQ & Docker  
+- 🛠️ Writing performant C++ and Python code with a systems-level perspective  
 
 ---
 
@@ -27,8 +27,12 @@
 
 **Frameworks & Libraries**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=java&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC6C23?logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-8CC84B?logo=c%2B%2B&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
 
@@ -52,6 +56,9 @@
 
 ## 🧩 Notable Projects
 
+- 🏎️ **TORCS AI Driving Agent** — Multi-output car control agent using PyTorch, XGBoost, and sensory input from TORCS  
+- 🔀 **Parallel-SSSP (MPI + OpenMP)** — Distributed dynamic shortest path updates using graph partitioning via METIS  
+- 🏆 **Matchday (Tournament Manager)** — Full-stack tournament app with React frontend and FastAPI + PostgreSQL backend  
 - 🛍️ **Store Management System** — Inventory & billing logic via JavaFX  
 - 🧾 **Booking Microservices** — FastAPI + RabbitMQ + PostgreSQL + MongoDB  
 - 🎮 **Tetris & Space Shooter** — Classic arcade games in C++ with SFML  
@@ -65,17 +72,12 @@
 ## 📜 Certifications
 
 📘 Google Cybersecurity Professional Certificate (Coursera)  
-- Foundations of Cybersecurity  
-- Manage Security Risks  
-- Network Security  
-- Linux & SQL Tools  
-- Threat & Vulnerability Analysis  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Shahmeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahmeerahmed486&show_icons=true&theme=radical)
+![Shahmeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahmeerahmed486&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeerahmed486&layout=compact&theme=radical)
 
 ---
@@ -89,4 +91,4 @@
 ## 💬 Let’s Connect
 
 📧 **Email**: ahmedshahmeer486@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/shahmeerahmed486)  
+🔗 [LinkedIn](https://linkedin.com/in/shahmeerahmed486)
