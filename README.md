@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Shahmeer Ahmed
 
 🎓 A passionate Computer Science student at FAST NUCES Islamabad (7th Semester)  
-🛡️ Focused on AI, Software Development, and Cybersecurity
+🛡️ Focused on AI, Software Development, and Cybersecurity  
 🧠 AI Enthusiast | 🖥️ Backend Explorer | 🎮 Game Developer
 
 ---
