@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Shahmeer Ahmed
 
-🎓 A passionate Computer Science student at FAST NUCES Islamabad (6th Semester)  
-🛡️ Focused on Cybersecurity, AI, and Software Development  
-🎮 Game Developer | 🧠 AI Enthusiast | 🖥️ Backend Explorer  
+🎓 A passionate Computer Science student at FAST NUCES Islamabad (7th Semester)  
+🛡️ Focused on AI, Software Development, and Cybersecurity
+🧠 AI Enthusiast | 🖥️ Backend Explorer | 🎮 Game Developer
 
 ---
 
@@ -70,6 +70,8 @@
 ---
 
 ## 📜 Certifications
+
+📘 Machine Learning Specialization by DeepLearning.AI (Coursera)  
 
 📘 Google Cybersecurity Professional Certificate (Coursera)  
 
